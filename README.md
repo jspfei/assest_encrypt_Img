@@ -1,0 +1,2 @@
+# assest_encrypt_Img
+将图片异或加密放入asstes下，在Android项目中读取文件写人文件中，再读取显示
